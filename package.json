@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "debug": "^2.6.9",
     "express": "^4.17.1",
     "joi": "^13.1.0",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2",
     "wappalyzer": "^6.5.35"
   }
 }
